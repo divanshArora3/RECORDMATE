@@ -1,3 +1,4 @@
+
 # 🎥 RECORDMATE
 
 **RECORDMATE** is a productivity tool that allows users to **join Google Meet meetings automatically**, **record them**, and **receive both the video recording and an AI-generated transcript** — delivered straight to their inbox or dashboard. It’s ideal for students, professionals, educators, and remote teams who want to focus on participation instead of note-taking.
@@ -43,6 +44,13 @@
 | Storage      | AWS S3 / Firebase Storage (for video)            |
 
 ---
+## Demo
+<img width="810" alt="Screenshot 2025-06-23 at 11 41 24 AM" src="https://github.com/user-attachments/assets/80f8f668-489c-4e74-b120-17b9e3f94f34" />
+<img width="810" alt="Screenshot 2025-06-23 at 11 41 34 AM" src="https://github.com/user-attachments/assets/49125eb4-fea2-4441-be77-4ca70eb45dbd" />
+<img width="808" alt="Screenshot 2025-06-23 at 11 41 44 AM" src="https://github.com/user-attachments/assets/c1dabbeb-2e0e-4e6d-8045-6642e02ac89d" />
+<img width="807" alt="Screenshot 2025-06-23 at 11 41 55 AM" src="https://github.com/user-attachments/assets/a769eb42-1766-4d8b-8f5f-aea9dcc6a995" />
+
+
 
 ## 🚀 Getting Started
 
